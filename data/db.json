@@ -1,16 +1,16 @@
 {
-    "blogs":[
-        {
-            "title":"My first Blog",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos nihil suntmolestiae hic asperiores placeat praesentium vitae cumque molestias dolorem?",
-            "author":"mario",
-            "id": 1
-        },
-        {
-            "title":"My second Blog",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos nihil suntmolestiae hic asperiores placeat praesentium vitae cumque molestias dolorem?",
-            "author":"luigi",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos nihil suntmolestiae hic asperiores placeat praesentium vitae cumque molestias dolorem?",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My second Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos nihil suntmolestiae hic asperiores placeat praesentium vitae cumque molestias dolorem?",
+      "author": "luigi",
+      "id": 2
+    }
+  ]
 }
